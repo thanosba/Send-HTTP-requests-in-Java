@@ -1,2 +1,2 @@
 # Send-HTTP-requests-in-Java
-Make HTTP GET/POST request via following API
+Make HTTP GET/POST requests
